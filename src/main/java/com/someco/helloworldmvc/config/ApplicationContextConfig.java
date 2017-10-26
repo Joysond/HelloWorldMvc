@@ -1,4 +1,4 @@
-package com.vit.helloworldmvc.config;
+package com.someco.helloworldmvc.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
