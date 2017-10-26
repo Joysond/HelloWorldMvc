@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
  
 @Configuration
-@ComponentScan("com.vit.helloworldmvc.*") 
+@ComponentScan("com.someco.helloworldmvc.*") 
 public class ApplicationContextConfig { 
     @Bean(name = "viewResolver")
     public InternalResourceViewResolver getViewResolver() {
